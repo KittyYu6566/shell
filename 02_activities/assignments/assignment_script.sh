@@ -54,4 +54,4 @@ ls data/processed/*/* > data/inventory.txt
 
 ###########################################
 
-echo "Project setup is complete!"
+echo "Project setup is complete!!"
